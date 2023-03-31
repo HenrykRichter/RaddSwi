@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STG719
+D Low Voltage 4 Ohm SPDT Switch
+K Analog Switch
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/54/24/e4/7d/80/f4/41/16/CD00066847.pdf/files/CD00066847.pdf/jcr:content/translations/en.CD00066847.pdf
+$ENDCMP
+#
+$CMP STMAV340
+D Low Voltage 4 Ohm SPDT Switch
+K Analog Switch
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/54/24/e4/7d/80/f4/41/16/CD00066847.pdf/files/CD00066847.pdf/jcr:content/translations/en.CD00066847.pdf
+$ENDCMP
+#
+$CMP TS5A3159ADBVR
+D Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6
+K Analog Switch
+F http://www.ti.com/lit/ds/symlink/ts5a3159a.pdf
+$ENDCMP
+#
+$CMP TS5A3159DBV
+D Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6
+K Analog Switch
+F http://www.ti.com/lit/ds/symlink/ts5a3159.pdf
+$ENDCMP
+#
+$CMP TS5A3160DBV
+D Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SOT-23-6
+K Analog Switch
+F http://www.ti.com/lit/ds/symlink/ts5a3160.pdf
+$ENDCMP
+#
+#End Doc Library
